@@ -16,18 +16,17 @@
 ---
 
 ## 👨‍💻 About Me :
-- 🎓 I’m a **first-year MCA student** at **Goa University**  
-- 💻 Passionate about **front-end web development**  
-- 🔍 Exploring **full-stack development** with **Next.js, Node.js, Express, MongoDB**  
-- 🚀 Love building projects that solve real-world problems  
-- 📫 Reach me at: **[mustafamulla765@gmail.com](mailto:mustafamulla765@gmail.com)**  
+- 🌱 I’m currently a **first-year MCA student** at **Goa University**
+- 💻 Passionate about **front-end web development**
+- 🔍 Exploring **back-end technologies** with **Next.js, Node.js, Express, MongoDB**
+- 🎯 Building web projects that solve **real-world problems**
+- 📫 How to reach me: [mustafamulla765@gmail.com](mailto:mustafamulla765@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack :
-
-### 🚀 Front-end:
-<p align="left">
+### 💻 Front-end:
+<p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -36,7 +35,7 @@
 </p>
 
 ### 🖥️ Back-end & Database:
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
@@ -45,25 +44,32 @@
 
 ---
 
-## 🌱 Currently Learning:
-- Advanced **React** concepts  
-- **Next.js** and **Node.js** for full-stack development  
-- Building scalable **MERN applications**  
-
----
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa-Mulla&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Mulla&theme=radical" alt="GitHub Streak" height="180px" />
-</div>
-
----
-
-## 🚀 My GitHub Contributions:
+## 📊 GitHub Stats :
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-Mulla&theme=react-dark" alt="GitHub Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MustafaMulla29&show_icons=true&theme=radical" alt="Mustafa's GitHub stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaMulla29&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaMulla29&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+---
+
+## 📌 GitHub Contributions:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustafaMulla29&theme=radical" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## 🧑‍🎓 Currently Learning:
+- **Advanced React concepts**
+- **Back-end development** with **Next.js** and **Node.js**
+- **Building full-stack MERN applications**
 
 ---
 
