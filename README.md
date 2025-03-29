@@ -44,6 +44,18 @@
 
 ---
 
+## 🔥 Recently Merged PRs:
+- ✅ [tscircuit.com - PR #757](https://github.com/tscircuit/tscircuit.com/pull/757) - Contributed improvements to the website  
+- ✅ [3D Viewer - PR #221](https://github.com/tscircuit/3d-viewer/pull/221) - Enhanced 3D visualization  
+- ✅ [Graphics Debug - PR #45](https://github.com/tscircuit/graphics-debug/pull/45) - Debugged rendering issues  
+- ✅ [Footprinter - PR #235](https://github.com/tscircuit/footprinter/pull/235) - Optimized footprint generation  
+- ✅ [CircuitJSON - PR #12](https://github.com/tscircuit/circuitjson.com/pull/12) - Improved JSON circuit processing  
+- ✅ [Add PR Comment Proxy - PR #9](https://github.com/tscircuit/add-pr-comment-proxy/pull/9) - Implemented PR comment handling  
+
+📌 *For more, check out my [GitHub contributions](https://github.com/MustafaMulla29?tab=overview).* 🚀
+
+---
+
 ## 📊 GitHub Stats :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MustafaMulla29&show_icons=true&theme=radical" alt="Mustafa's GitHub stats" />
