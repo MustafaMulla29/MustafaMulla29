@@ -16,7 +16,7 @@
 ---
 
 ## 👨‍💻 About Me :
-- 🌱 I’m currently a **first-year MCA student** at **Goa University**
+- 🌱 I’m currently a **final-year MCA student** at **Goa University**
 - 💻 Passionate about **front-end web development**
 - 🔍 Exploring **back-end technologies** with **Next.js, Node.js, Express, MongoDB**
 - 🎯 Building web projects that solve **real-world problems**
