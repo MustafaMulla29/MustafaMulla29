@@ -24,9 +24,3 @@ You can find my contributions on my [GitHub profile](https://github.com/MustafaM
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/mustafa-mulla-53846221a/) · [Portfolio](https://mustafamulla.me/) · [Email](mailto:mustafamulla765@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustafaMulla29&show_icons=true&hide_border=true" alt="Mustafa's GitHub stats" />
-</p>
